@@ -33,7 +33,7 @@ section a{
     padding: 5px;
     font-size: 2.5rem;
     border-radius: 5px;
-    font-family: cursive;
+    font-family: monospace;
 }
 section a:hover{
     color: white;
