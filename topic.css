@@ -47,7 +47,7 @@ main{
 }
 hr{
     width: 90%;
-    margin: 2vh;
+    margin: 2vh auto;
 }
 
 .box-2{
